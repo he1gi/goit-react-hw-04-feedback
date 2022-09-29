@@ -1,1 +1,1 @@
-# goit-react-hw-04-feedback
+# react hw-04-feedback
